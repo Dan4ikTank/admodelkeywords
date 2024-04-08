@@ -1,20 +1,23 @@
 {
-  "name": "admodelkeywords", 
-  "version": "1.0.0", 
-  "description": "Dan4ik", 
+  "name": "admodelkeywords",
+  "version": "1.0.0",
+  "description": "Dan4ik",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/Dan4ikTank/admodelkeywords.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fileuploade": "^1.0.0"
+  }
 }
